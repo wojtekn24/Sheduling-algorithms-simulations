@@ -1,1 +1,1 @@
-#Simulations of scheduling algorithms
+Simulations of scheduling algorithms
