@@ -1,4 +1,4 @@
-Simulations of scheduling algorithms in python
+Simulations of scheduling algorithms in python  
 -FCFS -First Come First Served  
 -LCFS - Last Come First Served  
 -FIFO - First in First out  
